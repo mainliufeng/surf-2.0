@@ -32,7 +32,7 @@ static Parameter defconfig[ParameterLast] = {
 	SETV(SpellLanguages,     ((char *[]){ "en_US", NULL })),
 	SETB(StrictSSL,          0),
 	SETB(Style,              1),
-	SETF(ZoomLevel,          1.0),
+	SETF(ZoomLevel,          3.0),
 };
 
 static UriParameters uriparams[] = {
